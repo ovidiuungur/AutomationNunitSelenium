@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="E:\FrameWork\NunitFrameworkStepByStep\NunitFrameworkStepByStep\bin\Debug\NunitFrameworkStepByStep.dll" total="2" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2015-10-02" time="18:07:48">
+  <environment nunit-version="2.6.4.14350" clr-version="2.0.50727.5485" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.6.4\bin" machine-name="HOME-PC" user="Home" user-domain="Home-PC" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="E:\FrameWork\NunitFrameworkStepByStep\NunitFrameworkStepByStep\bin\Debug\NunitFrameworkStepByStep.dll" executed="True" result="Success" success="True" time="30.856" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="NUnitSelenium" executed="True" result="Success" success="True" time="30.798" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="UnitTest1" executed="True" result="Success" success="True" time="20.216" asserts="0">
+            <results>
+              <test-case name="NUnitSelenium.UnitTest1.Test_OpeningHomePage" executed="True" result="Success" success="True" time="20.179" asserts="0" />
+            </results>
+          </test-suite>
+          <test-suite type="TestFixture" name="UnitTest2" executed="True" result="Success" success="True" time="10.565" asserts="0">
+            <results>
+              <test-case name="NUnitSelenium.UnitTest2.Test2" executed="True" result="Success" success="True" time="10.561" asserts="0" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
